@@ -11,7 +11,7 @@
 Shubham 
 Uday 
 
-### OUR HOUSE WEBSITE
+### LINK TO OUR SERVICE WEBSITE
 
 Click [here](https://iamshubhamhere.github.io/Servify/) to visit.
 
